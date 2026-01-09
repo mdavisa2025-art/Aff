@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+_site/
+published.db
+generate_jekyll_site.log
+*.log
+.DS_Store
